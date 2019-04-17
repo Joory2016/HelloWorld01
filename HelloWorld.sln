@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\HelloWorld.vcxproj", "{09ACAA10-1758-4326-A58E-A3A3A475E4E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test_map_list", "test_map_list\test_map_list.vcxproj", "{66D700CE-2E4D-47ED-9189-929E9C8745CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{09ACAA10-1758-4326-A58E-A3A3A475E4E7}.Release|x64.Build.0 = Release|x64
 		{09ACAA10-1758-4326-A58E-A3A3A475E4E7}.Release|x86.ActiveCfg = Release|Win32
 		{09ACAA10-1758-4326-A58E-A3A3A475E4E7}.Release|x86.Build.0 = Release|Win32
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Debug|x64.ActiveCfg = Debug|x64
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Debug|x64.Build.0 = Debug|x64
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Debug|x86.Build.0 = Debug|Win32
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Release|x64.ActiveCfg = Release|x64
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Release|x64.Build.0 = Release|x64
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Release|x86.ActiveCfg = Release|Win32
+		{66D700CE-2E4D-47ED-9189-929E9C8745CD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
